@@ -3,7 +3,7 @@ School Demographics of NYC 2017-2021
 Elias Guerra
 7/15/2022
 
-## Is NYC racist? (You guessed it)
+## Are NYC schools segregated?
 
 Data was retrieved from NYC Open Data. I’ll explain the dataset below.
 Check it out:
@@ -386,7 +386,6 @@ ggplot() +
 #Not super useful
 ```
 
-<https://www.youtube.com/watch?v=cD3VdPfF7Wo>
 
 ``` r
 # This is my fav
@@ -1088,4 +1087,4 @@ for (i in school_names) {
   rm(list = ls())
 ```
 
-<https://www.youtube.com/watch?v=SuXlZ5PHK9I>
+<https://m.youtube.com/watch?v=q43rol9kFv0&feature=youtu.be>
